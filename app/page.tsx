@@ -49,6 +49,7 @@ export default function Home() {
               <a className={btn} href={profile.github} {...ext}>GitHub</a>
               <a className={btn} href={profile.linkedin} {...ext}>LinkedIn</a>
               <a className={btn} href={profile.facebook} {...ext}>Facebook</a>
+              <a className={btn} href="/resume.pdf" download="Md_Asaduzzaman_Minhaz_Resume.pdf">Download Resume</a>
             </div>
           </div>
 
