@@ -12,7 +12,7 @@ export const profile = {
     ["Role", "Backend / Full Stack Developer"],
     ["Core stack", "Python, Django, DRF, Node.js, Express, PostgreSQL, MongoDB"],
     ["Shipped", "4 projects, 3 deployed with live demos"],
-    ["Location", "Cumilla, Bangladesh"],
+    ["Location", "Dhaka, Bangladesh"],
     ["Status", "Open to internships and junior roles"],
   ],
   doing: [
